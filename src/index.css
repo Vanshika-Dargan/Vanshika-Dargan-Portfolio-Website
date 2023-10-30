@@ -24,3 +24,14 @@ body {
     width: 0;
     height: 0;
   }
+
+  .green-gradient {
+    background: #6A9C89;
+    background: linear-gradient(-90deg, #6A9C89 0%, rgba(60, 51, 80, 0) 100%);
+    background: -webkit-linear-gradient(
+      -90deg,
+      #6A9C89 0%,
+      rgba(60, 51, 80, 0) 100%
+    );
+  }
+  
