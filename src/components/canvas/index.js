@@ -1,5 +1,6 @@
 import ComputerCanvas from "./Computer";
-
+import BallCanvas from './Ball'
 export {
-    ComputerCanvas
+    ComputerCanvas,
+    BallCanvas,
 }
